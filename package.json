@@ -1,6 +1,6 @@
 {
   "name": "npm-demo-semantic-release",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
@@ -11,7 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/AlexeyPopovUA/npm-demo-semantic-release.git"
   },
-  "keywords": ["demo", "semantic-release", "npm"],
+  "keywords": [
+    "demo",
+    "semantic-release",
+    "npm"
+  ],
   "author": "Oleksii Popov",
   "license": "MIT",
   "bugs": {
