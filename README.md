@@ -1,5 +1,7 @@
 # npm-demo-semantic-release
 
+[![NPM Package](https://img.shields.io/npm/v/npm-demo-semantic-release)](https://www.npmjs.com/package/npm-demo-semantic-release)
+
 Demo library showcasing **semantic-release** automation for NPM package publishing.
 
 ## Features
@@ -44,3 +46,7 @@ Pushes to `feature/**` or `feat/**` branches publish pre-release versions with b
 2. **Bug Fix**: `fix: handle empty name parameter`
 3. **Breaking Change**: `feat!: change function signature`
 4. **Feature Branch**: Push to `feature/awesome-feature` → Published as `npm-demo-semantic-release@1.0.0-feature-awesome-feature-1`
+
+## Learn More
+
+This demo repository is featured in the comprehensive guide: [**"The Ultimate Guide to NPM Release Automation: Semantic Release vs Release Please vs Changesets"**](https://oleksiipopov.com/blog/npm-release-automation/) - a detailed comparison of different NPM release automation tools with practical examples.
